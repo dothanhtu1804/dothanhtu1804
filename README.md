@@ -105,7 +105,7 @@ I have a strong passion for acquiring new knowledge and broadening my experience
 <div>
     <img width="440px" src="https://github-readme-stats.vercel.app/api?username=dothanhtu1804&show_icons=true">
     <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dothanhtu1804&layout=compact" />
-    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=dothanhtu1804&theme=github&bg_color=FFFEFE&color=2F80ED&radius=8">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dothanhtu1804&theme=github&bg_color=FFFEFE&color=2F80ED&radius=8">
 </div>
 
 ## Feeding...
