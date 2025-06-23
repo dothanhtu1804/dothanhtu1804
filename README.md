@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from Viet Nam </h3>
 
-
+I have a strong passion for acquiring new knowledge and broadening my experience. My primary goal is to leverage these skills to address user problems and drive business growth.
 
 ## About me:
 - 😄 Fun fact: I'm a PHP developer before
@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 2+ years of experience in Java, Spring Boot, React
+- 2+ years of experience in Java, Spring Boot, ReactJs
 - 1+ years of experience in PHP, Laravel
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
+- ❤️ API, RESTful API
 - HTML/CSS, JavaScript
 - git, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
@@ -104,10 +103,10 @@ Here are some ideas to get you started:
 
 ## My Journey
 <div>
-    <img width="440px" src="https://github-readme-stats.vercel.app/api?username=dothanhtu1804&show_icons=true&theme=onedark">
-    <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dothanhtu1804&layout=compact&theme=onedark" />
-    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=dothanhtu1804&theme=github">
-    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=dothanhtu1804&theme=onedark" />
+    <img width="440px" src="https://github-readme-stats.vercel.app/api?username=dothanhtu1804&show_icons=true">
+    <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dothanhtu1804&layout=compact" />
+    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=dothanhtu1804&theme=github&bg_color=white&title_color=blue">
+    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=dothanhtu1804" />
 </div>
 
 ## Feeding...
