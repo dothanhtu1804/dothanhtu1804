@@ -107,8 +107,8 @@ I have a strong passion for acquiring new knowledge and broadening my experience
     <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dothanhtu1804&layout=compact" />
     <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=dothanhtu1804&theme=github&bg_color=FFFEFE&color=2F80ED&radius=8">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dothanhtu1804&mode=weekly&card_width=385" alt="GitHub Streak" /></a>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=dothanhtu1804&mode=weekly&card_width=385)](https://git.io/streak-stats)
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dothanhtu1804&mode=weekly&card_width=385)](https://git.io/streak-stats)
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/dothanhtu1804/dothanhtu1804/output/github-contribution-grid-snake-dark.svg)
