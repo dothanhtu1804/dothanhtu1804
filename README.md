@@ -102,16 +102,16 @@ I have a strong passion for acquiring new knowledge and broadening my experience
 
 
 ## My Journey
+[![GitHub Streak](https://streak-stats.demolab.com?user=dothanhtu1804&mode=weekly&card_width=385)](https://git.io/streak-stats)
 <div>
     <img width="440px" src="https://github-readme-stats.vercel.app/api?username=dothanhtu1804&show_icons=true">
     <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dothanhtu1804&layout=compact" />
     <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=dothanhtu1804&theme=github&bg_color=FFFEFE&color=2F80ED&radius=8">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dothanhtu1804&mode=weekly&card_width=385" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=dothanhtu1804&mode=weekly&card_width=385)](https://git.io/streak-stats)
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/dothanhtu1804/dothanhtu1804/output/github-contribution-grid-snake-dark.svg)
+
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
