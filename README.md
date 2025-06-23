@@ -102,7 +102,6 @@ I have a strong passion for acquiring new knowledge and broadening my experience
 
 
 ## My Journey
-[![GitHub Streak](https://streak-stats.demolab.com?user=dothanhtu1804&mode=weekly&card_width=385)](https://git.io/streak-stats)
 <div>
     <img width="440px" src="https://github-readme-stats.vercel.app/api?username=dothanhtu1804&show_icons=true">
     <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dothanhtu1804&layout=compact" />
