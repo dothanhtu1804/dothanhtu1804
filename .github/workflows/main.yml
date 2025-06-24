@@ -15,6 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Clean dist directory
+        run: rm -rf dist/*
+
+      - name: Commit temporary files
+        run: |
+          git add .
+          git commit -m "Remove SVG files" || true
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.1.0
         with:
@@ -30,9 +38,6 @@ jobs:
         run: |
           git add .
           git commit -m "Temporary commit for SVG files" || true
-
-      - name: Pull
-        run: git pull origin main
 
       - uses: stefanzweifel/git-auto-commit-action@v4.15.1
         with:
