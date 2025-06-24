@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: "* */12 * * *"
+    - cron: '0 */2 * * *'
 
 jobs:
   build:
@@ -14,19 +14,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
-      - name: Set Git User
-        run: |
-          git config user.name "dothanhtu1804"
-          git config user.email "dothanhtu.1804@gmail.com" 
-
-      - name: Clean dist directory
-        run: rm -rf dist/*
-
-      - name: Commit temporary files
-        run: |
-          git add .
-          git commit -m "Remove SVG files" || true
 
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.1.0
@@ -38,11 +25,6 @@ jobs:
         env:
           # a GitHub token is required to fetch the contribution calendar from GitHub API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit temporary files
-        run: |
-          git add .
-          git commit -m "Temporary commit for SVG files" || true
 
       - name: Pull
         run: git pull origin main

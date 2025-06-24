@@ -107,6 +107,7 @@ I have a strong passion for acquiring new knowledge and broadening my experience
     <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dothanhtu1804&layout=compact" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dothanhtu1804&theme=github&bg_color=FFFEFE&color=2F80ED&radius=8">
 </div>
+<img src="https://github.com/dothanhtu1804/dothanhtu1804/blob/main/profile-3d-contrib/profile-green-animate.svg">
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/dothanhtu1804/dothanhtu1804/output/github-contribution-grid-snake-dark.svg)
