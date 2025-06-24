@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: "* */12 * * *"
 
 jobs:
   build:
@@ -25,6 +25,11 @@ jobs:
         env:
           # a GitHub token is required to fetch the contribution calendar from GitHub API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit temporary files
+        run: |
+          git add .
+          git commit -m "Temporary commit for SVG files" || true
 
       - name: Pull
         run: git pull origin main
