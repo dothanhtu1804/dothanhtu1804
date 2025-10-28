@@ -26,7 +26,7 @@ I have a strong passion for acquiring new knowledge and broadening my experience
 ## About me:
 - 😄 Fun fact: I'm a PHP developer before
 - 🔭 I always welcome connections to grow together.
-- 📫 How to reach me: [Email](dothanhtu.1804@gmail.com)
+- 📫 How to reach me: [Email](dothanhtu.1804@gmail.com), [LinkedIn](https://www.linkedin.com/in/tú-đỗ-thanh-626468276/)
 - 💬 Ask me about `Frontend` or `Backend`
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
