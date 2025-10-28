@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from Viet Nam </h3>
 
+<b>Short-term:</b> To leverage my Java programming skills in real-world software development projects, while continuously expanding my expertise in modern technologies such as Spring Boot, Microservices, and DevOps.
+
+<b>Long-term:</b> Enhance my knowledge and ability to analyze systems to aim for a Senior Java Developer or Software Architect position, capable of designing and implementing scalable software systems that deliver long-term value to the business.
+
 I have a strong passion for acquiring new knowledge and broadening my experience. My primary goal is to leverage these skills to address user problems and drive business growth.
 
 ## About me:
@@ -28,7 +32,7 @@ I have a strong passion for acquiring new knowledge and broadening my experience
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 2+ years of experience in Java, Spring Boot, ReactJs
+- 3 years of experience in Java, Spring Boot, ReactJs
 - 1+ years of experience in PHP, Laravel
 - ❤️ API, RESTful API
 - HTML/CSS, JavaScript
