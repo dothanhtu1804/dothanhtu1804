@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Do Thanh Tu 👋 </h1>
+<h1 align="center">Đỗ Thanh Tú</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Full Stack Developer from Viet Nam </h3>
+<h3 align="center">Aspiring Full Stack Developer from Viet Nam</h3>
 
-<b>Short-term:</b> To leverage my Java programming skills in real-world software development projects, while continuously expanding my expertise in modern technologies such as Spring Boot, Microservices, and DevOps.
-
-<b>Long-term:</b> Enhance my knowledge and ability to analyze systems to aim for a Senior Java Developer or Software Architect position, capable of designing and implementing scalable software systems that deliver long-term value to the business.
-
-I have a strong passion for acquiring new knowledge and broadening my experience. My primary goal is to leverage these skills to address user problems and drive business growth.
+<h1>Hi, have a nice day. Welcome to my github 👋</h1>
+I’m a Full-Stack Developer who builds scalable backend systems (Java/Spring Boot) and intuitive frontend apps (React).
+I am passionate about technology, especially in backend system development.
+I enjoy learning, exploring new knowledge, solving user problems and learning modern technologies.
 
 ## About me:
 - 😄 Fun fact: I'm a PHP developer before
